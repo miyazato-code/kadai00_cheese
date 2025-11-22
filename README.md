@@ -5,7 +5,7 @@
 - 仕様書の近いサイトを作りました
 
 ## ③アプリのデプロイURL
-デプロイしている場合はURLを記入（任意）
+https://miyazato-code.github.io/kadai00_cheese/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 今回なし
