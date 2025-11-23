@@ -27,5 +27,5 @@ https://miyazato-code.github.io/kadai00_cheese/
 - 簡単そうに見えたが、意外と難しかった
 
 - [参考記事]
-  - 1. [URLをここに記入]
-  - 2. [URLをここに記入]
+  - 1. https://developer.mozilla.org/ja/docs/Web/HTML/Guides/Cheatsheet
+  - 2. https://developer.mozilla.org/ja/docs/Web/CSS/Guides/Flexible_box_layout/Basic_concepts
